@@ -1,0 +1,10 @@
+﻿Reserve Points,Serial Number,Capacity,Reserve Cost,,
+,,,Protective Equipment,Medical Device,Therapeutic Drug
+Xiaogan Regional Central Warehouse,C1,"60,000",0.8,5,3
+Huanggang Support Center Warehouse,C2,"65,000",0.7,4.5,2.8
+Ezhou Emergency Reserve Warehouse,C3,"80,000",0.75,4.8,3.2
+Hankou North Emergency Warehouse,R1,"70,000",2.5,15,8
+National Warehouse of Dongxihu,R2,"62,000",2.6,16,8.5
+Hanyang Jiuzhoutong Warehouse,R3,"120,000",2.7,17.5,9
+Hongshan Disease Control Warehouse,R4,"180,000",2.8,18,9.5
+Jiangxia Cabin Hospital Reserve Depot,R5,"150,000",2.4,14.5,7.8
